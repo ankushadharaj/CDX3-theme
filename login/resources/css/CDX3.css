@@ -1,0 +1,26 @@
+.card-pf {
+    border-color: var(--pf-global--palette--purple-600);
+}
+
+.kc-logo-container {
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: var(--pf-global--palette--purple-600);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#kc-login {
+    background: url('/resources/img/5153829.jpg');
+    background-color: var(--pf-global--palette--purple-600);
+}
+
+#kc-login:hover {
+    background-color: var(--pf-global--palette--purple-700);
+}
+
+:root {
+    background: url('/resources/img/5153829.jpg');
+    --pf-global--primary-color--100: var(--pf-global--palette--purple-600);
+    --pf-global--primary-color--200: var(--pf-global--palette--purple-700);
+}
